@@ -1,0 +1,9 @@
+<template>
+	<div>
+		<br>
+		<br>
+		<br>
+		<hr>
+		Footer
+	</div>
+</template>
